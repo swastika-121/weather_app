@@ -19,8 +19,9 @@ Developed a modern Django-based Weather App with API integration, real-time weat
 - Render (Deployment)
 
 ## Screenshot
-[Weather App](2026-04-07.png)
-[Weather App](2026-04-07(2).png)
+[Weather App Front Page](2026-04-07.png)
+
+[Weather App End Page](2026-04-07(2).png)
 
 ## Setup Instructions
 ```bash

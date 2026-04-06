@@ -18,6 +18,10 @@ Developed a modern Django-based Weather App with API integration, real-time weat
 - OpenWeatherMap API
 - Render (Deployment)
 
+## Screenshot
+[Weather App](2026-04-07.png)
+[Weather App](2026-04-07 (2).png)
+
 ## Setup Instructions
 ```bash
 git clone https://github.com/yourusername/weather_app.git
